@@ -3,60 +3,60 @@
     "id": "1",
     "title": "Purple Mountains",
     "category": "Nature",
-    "imageUrl": "https://images.pexels.com/photos/2387418/pexels-photo-2387418.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/1.jpeg"
   },
   {
     "id": "2",
     "title": "Ocean Waves",
     "category": "Nature",
-    "imageUrl": "https://images.pexels.com/photos/1298684/pexels-photo-1298684.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/2.jpeg"
   },
   {
     "id": "3",
     "title": "Desert Dunes",
     "category": "Nature",
-    "imageUrl": "https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/3.jpeg"
   },
   {
     "id": "4",
     "title": "Night City",
     "category": "Cities",
-    "imageUrl": "https://images.pexels.com/photos/316093/pexels-photo-316093.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/4.jpeg"
   },
   {
     "id": "5",
     "title": "Tokyo Streets",
     "category": "Cities",
-    "imageUrl": "https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/5.jpeg"
   },
   {
     "id": "6",
     "title": "Neon City",
     "category": "Cities",
-    "imageUrl": "https://images.pexels.com/photos/1538177/pexels-photo-1538177.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/6.jpeg"
   },
   {
     "id": "7",
     "title": "Abstract Colors",
     "category": "Abstract",
-    "imageUrl": "https://images.pexels.com/photos/2110951/pexels-photo-2110951.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/7.jpeg"
   },
   {
     "id": "8",
     "title": "Liquid Art",
     "category": "Abstract",
-    "imageUrl": "https://images.pexels.com/photos/3699434/pexels-photo-3699434.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/1.jpeg"
   },
   {
     "id": "9",
     "title": "Space Nebula",
     "category": "Space",
-    "imageUrl": "https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/1.jpeg"
   },
   {
     "id": "10",
     "title": "Galaxy",
     "category": "Space",
-    "imageUrl": "https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg"
+    "imageUrl": "https://raw.githubusercontent.com/qatarvpn/pngm/refs/heads/main/1.jpeg"
   }
 ]
