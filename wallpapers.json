@@ -58,5 +58,35 @@
     "title": "Galaxy",
     "category": "Space",
     "imageUrl": "https://wallpaperaccess.com/full/19809.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Flowing Aurora",
+    "category": "LIVE WALLPAPER",
+    "videoUrl": "https://example.com/videos/flowing-aurora.mp4"
+  },
+  {
+    "id": "12",
+    "title": "Water Ripples",
+    "category": "LIVE WALLPAPER",
+    "videoUrl": "https://example.com/videos/water-ripples.mp4"
+  },
+  {
+    "id": "13",
+    "title": "Fire Sparks",
+    "category": "LIVE WALLPAPER",
+    "videoUrl": "https://example.com/videos/fire-sparks.mp4"
+  },
+  {
+    "id": "14",
+    "title": "Galaxy Glow",
+    "category": "LIVE WALLPAPER",
+    "videoUrl": "https://example.com/videos/galaxy-glow.mp4"
+  },
+  {
+    "id": "15",
+    "title": "Dynamic Wave",
+    "category": "LIVE WALLPAPER",
+    "videoUrl": "https://example.com/videos/dynamic-wave.mp4"
   }
 ]
