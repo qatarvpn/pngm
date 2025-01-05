@@ -61,32 +61,62 @@
   },
   {
     "id": "11",
-    "title": "Flowing Aurora",
-    "category": "LIVE WALLPAPER",
-    "videoUrl": "https://videos.pexels.com/video-files/9669111/9669111-hd_1080_1920_25fps.mp4"
+    "title": "Vintage Car",
+    "category": "Vintage",
+    "imageUrl": "https://wallpaperaccess.com/full/1123456.jpg"
   },
   {
     "id": "12",
-    "title": "Water Ripple",
-    "category": "LIVE WALLPAPER",
-    "videoUrl": "https://videos.pexels.com/video-files/9669111/9669111-hd_1080_1920_25fps.mp4"
+    "title": "Old Town",
+    "category": "Vintage",
+    "imageUrl": "https://wallpaperaccess.com/full/2345678.jpg"
   },
   {
     "id": "13",
-    "title": "Fire Sparks",
-    "category": "LIVE WALLPAPER",
-    "videoUrl": "https://videos.pexels.com/video-files/9669111/9669111-hd_1080_1920_25fps.mp4"
+    "title": "Mountain Bike",
+    "category": "Sports",
+    "imageUrl": "https://wallpaperaccess.com/full/3456789.jpg"
   },
   {
     "id": "14",
-    "title": "Galaxy Glow",
-    "category": "LIVE WALLPAPER",
-    "videoUrl": "https://videos.pexels.com/video-files/9669111/9669111-hd_1080_1920_25fps.mp4"
+    "title": "Football Field",
+    "category": "Sports",
+    "imageUrl": "https://wallpaperaccess.com/full/4567890.jpg"
   },
   {
     "id": "15",
-    "title": "Dynamic Wave",
-    "category": "LIVE WALLPAPER",
-    "videoUrl": "https://videos.pexels.com/video-files/9669111/9669111-hd_1080_1920_25fps.mp4"
+    "title": "Cute Kitten",
+    "category": "Animals",
+    "imageUrl": "https://wallpaperaccess.com/full/5678901.jpg"
+  },
+  {
+    "id": "16",
+    "title": "Wild Tiger",
+    "category": "Animals",
+    "imageUrl": "https://wallpaperaccess.com/full/6789012.jpg"
+  },
+  {
+    "id": "17",
+    "title": "Golden Sunset",
+    "category": "Scenery",
+    "imageUrl": "https://wallpaperaccess.com/full/7890123.jpg"
+  },
+  {
+    "id": "18",
+    "title": "Winter Forest",
+    "category": "Scenery",
+    "imageUrl": "https://wallpaperaccess.com/full/8901234.jpg"
+  },
+  {
+    "id": "19",
+    "title": "Cyberpunk Street",
+    "category": "Technology",
+    "imageUrl": "https://wallpaperaccess.com/full/9012345.jpg"
+  },
+  {
+    "id": "20",
+    "title": "Futuristic City",
+    "category": "Technology",
+    "imageUrl": "https://wallpaperaccess.com/full/1234567.jpg"
   }
 ]
