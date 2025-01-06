@@ -19,104 +19,529 @@
   },
   {
     "id": "4",
+    "title": "Forest Stream",
+    "category": "Nature",
+    "imageUrl": "https://wallpaperaccess.com/full/12345.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Snowy Peaks",
+    "category": "Nature",
+    "imageUrl": "https://wallpaperaccess.com/full/54321.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Autumn Forest",
+    "category": "Nature",
+    "imageUrl": "https://wallpaperaccess.com/full/98765.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Waterfall Mist",
+    "category": "Nature",
+    "imageUrl": "https://wallpaperaccess.com/full/77889.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Mountain Lake",
+    "category": "Nature",
+    "imageUrl": "https://wallpaperaccess.com/full/33445.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Green Valley",
+    "category": "Nature",
+    "imageUrl": "https://wallpaperaccess.com/full/66778.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Sunset Beach",
+    "category": "Nature",
+    "imageUrl": "https://wallpaperaccess.com/full/67890.jpg"
+  },
+  {
+    "id": "11",
     "title": "Night City",
     "category": "Cities",
     "imageUrl": "https://wallpaperaccess.com/full/57198.jpg"
   },
   {
-    "id": "5",
+    "id": "12",
     "title": "Tokyo Streets",
     "category": "Cities",
     "imageUrl": "https://wallpaperaccess.com/full/24848.jpg"
   },
   {
-    "id": "6",
+    "id": "13",
     "title": "Neon City",
     "category": "Cities",
     "imageUrl": "https://images.unsplash.com/photo-1550668140-cc531bcc0703?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    "id": "7",
+    "id": "14",
+    "title": "New York Skyline",
+    "category": "Cities",
+    "imageUrl": "https://wallpaperaccess.com/full/11111.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Paris Eiffel Tower",
+    "category": "Cities",
+    "imageUrl": "https://wallpaperaccess.com/full/33333.jpg"
+  },
+  {
+    "id": "16",
+    "title": "London Bridge",
+    "category": "Cities",
+    "imageUrl": "https://wallpaperaccess.com/full/44444.jpg"
+  },
+  {
+    "id": "17",
+    "title": "Dubai Skyscrapers",
+    "category": "Cities",
+    "imageUrl": "https://wallpaperaccess.com/full/55555.jpg"
+  },
+  {
+    "id": "18",
+    "title": "Hong Kong Harbor",
+    "category": "Cities",
+    "imageUrl": "https://wallpaperaccess.com/full/66666.jpg"
+  },
+  {
+    "id": "19",
+    "title": "Singapore Marina Bay",
+    "category": "Cities",
+    "imageUrl": "https://wallpaperaccess.com/full/77777.jpg"
+  },
+  {
+    "id": "20",
+    "title": "San Francisco Golden Gate",
+    "category": "Cities",
+    "imageUrl": "https://wallpaperaccess.com/full/88888.jpg"
+  },
+  {
+    "id": "21",
     "title": "Abstract Color",
     "category": "Abstract",
     "imageUrl": "https://wallpaperaccess.com/full/57184.jpg"
   },
   {
-    "id": "8",
+    "id": "22",
     "title": "Liquid Art",
     "category": "Abstract",
     "imageUrl": "https://wallpaperaccess.com/full/3968.jpg"
   },
   {
-    "id": "9",
+    "id": "23",
+    "title": "Abstract Shapes",
+    "category": "Abstract",
+    "imageUrl": "https://wallpaperaccess.com/full/12346.jpg"
+  },
+  {
+    "id": "24",
+    "title": "Colorful Patterns",
+    "category": "Abstract",
+    "imageUrl": "https://wallpaperaccess.com/full/12347.jpg"
+  },
+  {
+    "id": "25",
+    "title": "Geometric Design",
+    "category": "Abstract",
+    "imageUrl": "https://wallpaperaccess.com/full/12348.jpg"
+  },
+  {
+    "id": "26",
+    "title": "Abstract Waves",
+    "category": "Abstract",
+    "imageUrl": "https://wallpaperaccess.com/full/12349.jpg"
+  },
+  {
+    "id": "27",
+    "title": "Abstract Lines",
+    "category": "Abstract",
+    "imageUrl": "https://wallpaperaccess.com/full/12350.jpg"
+  },
+  {
+    "id": "28",
+    "title": "Abstract Circles",
+    "category": "Abstract",
+    "imageUrl": "https://wallpaperaccess.com/full/12351.jpg"
+  },
+  {
+    "id": "29",
+    "title": "Abstract Light",
+    "category": "Abstract",
+    "imageUrl": "https://wallpaperaccess.com/full/12352.jpg"
+  },
+  {
+    "id": "30",
+    "title": "Abstract Texture",
+    "category": "Abstract",
+    "imageUrl": "https://wallpaperaccess.com/full/12353.jpg"
+  },
+  {
+    "id": "31",
     "title": "Space Nebula",
     "category": "Space",
     "imageUrl": "https://wallpaperaccess.com/full/57180.jpg"
   },
   {
-    "id": "10",
+    "id": "32",
     "title": "Galaxy",
     "category": "Space",
     "imageUrl": "https://wallpaperaccess.com/full/19809.jpg"
   },
   {
-    "id": "11",
+    "id": "33",
+    "title": "Milky Way",
+    "category": "Space",
+    "imageUrl": "https://wallpaperaccess.com/full/12354.jpg"
+  },
+  {
+    "id": "34",
+    "title": "Solar System",
+    "category": "Space",
+    "imageUrl": "https://wallpaperaccess.com/full/12355.jpg"
+  },
+  {
+    "id": "35",
+    "title": "Black Hole",
+    "category": "Space",
+    "imageUrl": "https://wallpaperaccess.com/full/12356.jpg"
+  },
+  {
+    "id": "36",
+    "title": "Astronaut in Space",
+    "category": "Space",
+    "imageUrl": "https://wallpaperaccess.com/full/12357.jpg"
+  },
+  {
+    "id": "37",
+    "title": "Earth from Space",
+    "category": "Space",
+    "imageUrl": "https://wallpaperaccess.com/full/12358.jpg"
+  },
+  {
+    "id": "38",
+    "title": "Stars and Planets",
+    "category": "Space",
+    "imageUrl": "https://wallpaperaccess.com/full/12359.jpg"
+  },
+  {
+    "id": "39",
+    "title": "Space Exploration",
+    "category": "Space",
+    "imageUrl": "https://wallpaperaccess.com/full/12360.jpg"
+  },
+  {
+    "id": "40",
+    "title": "Rocket Launch",
+    "category": "Space",
+    "imageUrl": "https://wallpaperaccess.com/full/12361.jpg"
+  },
+  {
+    "id": "41",
     "title": "Vintage Car",
     "category": "Vintage",
     "imageUrl": "https://images.pexels.com/photos/1010519/pexels-photo-1010519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": "12",
+    "id": "42",
     "title": "Old Town",
     "category": "Vintage",
     "imageUrl": "https://images.pexels.com/photos/821738/pexels-photo-821738.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": "13",
+    "id": "43",
+    "title": "Vintage Camera",
+    "category": "Vintage",
+    "imageUrl": "https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "44",
+    "title": "Retro Phone",
+    "category": "Vintage",
+    "imageUrl": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "45",
+    "title": "Classic Record Player",
+    "category": "Vintage",
+    "imageUrl": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "46",
+    "title": "Vintage Bicycle",
+    "category": "Vintage",
+    "imageUrl": "https://images.pexels.com/photos/4567890/pexels-photo-4567890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "47",
+    "title": "Old Books",
+    "category": "Vintage",
+    "imageUrl": "https://images.pexels.com/photos/5678901/pexels-photo-5678901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "48",
+    "title": "Vintage Clock",
+    "category": "Vintage",
+    "imageUrl": "https://images.pexels.com/photos/6789012/pexels-photo-6789012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "49",
+    "title": "Antique Furniture",
+    "category": "Vintage",
+    "imageUrl": "https://images.pexels.com/photos/7890123/pexels-photo-7890123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "50",
+    "title": "Vintage Train",
+    "category": "Vintage",
+    "imageUrl": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "51",
     "title": "Mountain Bike",
     "category": "Sports",
     "imageUrl": "https://images.pexels.com/photos/2834917/pexels-photo-2834917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": "14",
+    "id": "52",
     "title": "Football Field",
     "category": "Sports",
     "imageUrl": "https://images.pexels.com/photos/2749500/pexels-photo-2749500.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": "15",
+    "id": "53",
+    "title": "Basketball Court",
+    "category": "Sports",
+    "imageUrl": "https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "54",
+    "title": "Tennis Match",
+    "category": "Sports",
+    "imageUrl": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "55",
+    "title": "Swimming Pool",
+    "category": "Sports",
+    "imageUrl": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "56",
+    "title": "Running Track",
+    "category": "Sports",
+    "imageUrl": "https://images.pexels.com/photos/4567890/pexels-photo-4567890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "57",
+    "title": "Skiing",
+    "category": "Sports",
+    "imageUrl": "https://images.pexels.com/photos/5678901/pexels-photo-5678901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "58",
+    "title": "Surfing",
+    "category": "Sports",
+    "imageUrl": "https://images.pexels.com/photos/6789012/pexels-photo-6789012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "59",
+    "title": "Golf Course",
+    "category": "Sports",
+    "imageUrl": "https://images.pexels.com/photos/7890123/pexels-photo-7890123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "60",
+    "title": "Boxing Ring",
+    "category": "Sports",
+    "imageUrl": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "61",
     "title": "Cute Kitten",
     "category": "Animals",
     "imageUrl": "https://images.pexels.com/photos/1431465/pexels-photo-1431465.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": "16",
+    "id": "62",
     "title": "Wild Tiger",
     "category": "Animals",
     "imageUrl": "https://images.pexels.com/photos/4588065/pexels-photo-4588065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": "17",
+    "id": "63",
+    "title": "Golden Retriever",
+    "category": "Animals",
+    "imageUrl": "https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "64",
+    "title": "Elephant Herd",
+    "category": "Animals",
+    "imageUrl": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "65",
+    "title": "Penguins on Ice",
+    "category": "Animals",
+    "imageUrl": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "66",
+    "title": "Butterfly on Flower",
+    "category": "Animals",
+    "imageUrl": "https://images.pexels.com/photos/456789
+	  {
+    "id": "66",
+    "title": "Butterfly on Flower",
+    "category": "Animals",
+    "imageUrl": "https://images.pexels.com/photos/4567890/pexels-photo-4567890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "67",
+    "title": "Dolphin Swimming",
+    "category": "Animals",
+    "imageUrl": "https://images.pexels.com/photos/5678901/pexels-photo-5678901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "68",
+    "title": "Peacock Feathers",
+    "category": "Animals",
+    "imageUrl": "https://images.pexels.com/photos/6789012/pexels-photo-6789012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "69",
+    "title": "Wolf in Snow",
+    "category": "Animals",
+    "imageUrl": "https://images.pexels.com/photos/7890123/pexels-photo-7890123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "70",
+    "title": "Panda Eating Bamboo",
+    "category": "Animals",
+    "imageUrl": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "71",
     "title": "Golden Sunset",
     "category": "Scenery",
     "imageUrl": "https://images.pexels.com/photos/1496372/pexels-photo-1496372.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": "18",
+    "id": "72",
     "title": "Winter Forest",
     "category": "Scenery",
     "imageUrl": "https://images.pexels.com/photos/1658967/pexels-photo-1658967.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": "19",
+    "id": "73",
+    "title": "Mountain Range",
+    "category": "Scenery",
+    "imageUrl": "https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "74",
+    "title": "Beach Sunset",
+    "category": "Scenery",
+    "imageUrl": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "75",
+    "title": "Autumn Leaves",
+    "category": "Scenery",
+    "imageUrl": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "76",
+    "title": "Lakeside View",
+    "category": "Scenery",
+    "imageUrl": "https://images.pexels.com/photos/4567890/pexels-photo-4567890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "77",
+    "title": "Desert Landscape",
+    "category": "Scenery",
+    "imageUrl": "https://images.pexels.com/photos/5678901/pexels-photo-5678901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "78",
+    "title": "Snowy Mountains",
+    "category": "Scenery",
+    "imageUrl": "https://images.pexels.com/photos/6789012/pexels-photo-6789012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "79",
+    "title": "Tropical Beach",
+    "category": "Scenery",
+    "imageUrl": "https://images.pexels.com/photos/7890123/pexels-photo-7890123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "80",
+    "title": "Sunrise Over Hills",
+    "category": "Scenery",
+    "imageUrl": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "81",
     "title": "Cyberpunk Street",
     "category": "Technology",
     "imageUrl": "https://images.pexels.com/photos/1054397/pexels-photo-1054397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
-    "id": "20",
+    "id": "82",
     "title": "Futuristic City",
     "category": "Technology",
     "imageUrl": "https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "83",
+    "title": "AI Brain",
+    "category": "Technology",
+    "imageUrl": "https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "84",
+    "title": "Virtual Reality",
+    "category": "Technology",
+    "imageUrl": "https://images.pexels.com/photos/2345678/pexels-photo-2345678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "85",
+    "title": "Robotics",
+    "category": "Technology",
+    "imageUrl": "https://images.pexels.com/photos/3456789/pexels-photo-3456789.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "86",
+    "title": "Space Exploration",
+    "category": "Technology",
+    "imageUrl": "https://images.pexels.com/photos/4567890/pexels-photo-4567890.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "87",
+    "title": "3D Printing",
+    "category": "Technology",
+    "imageUrl": "https://images.pexels.com/photos/5678901/pexels-photo-5678901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "88",
+    "title": "Smart Home",
+    "category": "Technology",
+    "imageUrl": "https://images.pexels.com/photos/6789012/pexels-photo-6789012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "89",
+    "title": "Quantum Computing",
+    "category": "Technology",
+    "imageUrl": "https://images.pexels.com/photos/7890123/pexels-photo-7890123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "90",
+    "title": "Blockchain",
+    "category": "Technology",
+    "imageUrl": "https://images.pexels.com/photos/8901234/pexels-photo-8901234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   }
 ]
